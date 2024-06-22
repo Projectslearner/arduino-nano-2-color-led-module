@@ -12,8 +12,6 @@ This project demonstrates how to control a 2-color LED module using an Arduino N
 
 ### Block Diagram
 
-
-
 #### Circuit Setup
 
 1. **LED Module Connections:**
